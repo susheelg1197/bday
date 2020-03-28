@@ -1,3 +1,5 @@
-// module.exports = {
-//     publicPath: "/bday/"
-//     }
+module.exports = {
+  "transpileDependencies": [
+    "vuetify"
+  ]
+}
